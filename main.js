@@ -6,14 +6,14 @@ function App() {
     <div className="app">
 
       <h1>Select Character</h1>
-      <p>
-        <input /> <button>update message</button> 
-      </p>
       <div>
         <button>BUNNY</button>
         <button>CAT</button>
         <button>KOALA</button>
       </div>
+      <p>
+        <input /> <button>update message</button> 
+      </p>
       <p>
         <button>Bigger</button>
         <button>Smaller</button>
