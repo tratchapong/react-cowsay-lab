@@ -15,8 +15,8 @@ function App() {
         <input /> <button>update message</button> 
       </p>
       <p>
-        <button>Bigger</button>
         <button>Smaller</button>
+        <button>Bigger</button>
       </p>
       <hr />
       <Cowsay />
